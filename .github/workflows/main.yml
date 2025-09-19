@@ -5,7 +5,7 @@ on:
     branches: [ "main" ]
 
 env:
-  IMAGE_NAME: panivinux/fastapi-app-scout
+  IMAGE_NAME: movillarroel/fastapi-app-scout
   SHA: ${{ github.sha }}
 
 jobs:
